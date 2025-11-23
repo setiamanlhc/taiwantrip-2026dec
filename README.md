@@ -1,196 +1,245 @@
-# taiwantrip-2026dec
+# Taiwan Trip Hotels (21–31 Dec)
 
-Here’s a suggested itinerary for your Taiwan trip (21 – 31) with activities at each stop and transit suggestions between locations. You’ll want to check exact schedules close to your travel dates since times may change.
+## 1. Taipei (21–23 Dec) – Airbnb
+**Address:** No. 17-1, Ln 30, Sec 2, Roosevelt Rd (near Guting / NTU area)
 
----
+## 2. Sun Moon Lake (23–25 Dec) – Sun Moon Tea B & B
+**Address:** No. 134 Zhongshan Road, 555 Yuchi, Taiwan
 
-## 21–23: Taipei
+## 3. Taichung (25–26 Dec) – Norway Forest Travel Hotel 1
+**Address:** No. 184, Jianguo Road, Central District, 400 Taichung, Taiwan
 
-### Activities
+## 4. Kaohsiung (26–29 Dec) – Hotel South Sea
+**Address:** No. 10, Xinsheng 1st Street, Qianjin District, 80141 Kaohsiung, Taiwan
 
-* Visit the Taipei 101 observatory & shopping mall
-* Explore the Chiang Kai‑shek Memorial Hall and its gardens
-* Wander through the night markets: Shilin Night Market or Raohe Street Night Market
-* Day trip to Yangmingshan National Park or explore the old streets of Tamsui
+## 5. Taipei (29–31 Dec) – Member Hotel at Taipei 101
+**Address:** 5F, No. 22, Section 2, Keelung Road, Xinyi District, 110 Taipei, Taiwan
 
-### Transfer to next stop
-
-**Taipei → Sun Moon Lake** (on 23rd)
-
-* Direct bus by Kuo‑Kuang Bus Company No.1833 from Taipei Bus Station to Shuishe at Sun Moon Lake: departs about 6:40 am, 7:20 am, 8:30 am, 9:00 am. Duration ~4 hours. ([Sun Moon Lake][1])
-* Alternative faster route: Take HSR from Taipei to Taichung (~50-60 mins) then shuttle bus to Sun Moon Lake (~1 hr20). ([Tripadvisor][2])
-* Suggest departing early on 23rd to maximise time at Sun Moon Lake.
+Here’s a well-structured **Taiwan itinerary** based on your dates, stays, and preference for **public transport**. I’ve chosen routes that are convenient, realistic, and enjoyable.
 
 ---
 
-## 23–25: Sun Moon Lake
+# 🇹🇼 **Your Taiwan Trip Plan (21–31 Dec)**
 
-### Activities
+## **📍 21 Dec – Arrival in Taipei (6 PM)**
 
-* Cycle or boat around the lake; visit the Wenwu Temple and Xiangshan Visitor Center
-* Ride the rope-way (if operational) to enjoy mountain views
-* Visit the tea plantations around the lake and try local food specialties
-* Relax and watch sunset by the lake
+**Stay:** No. 17-1, Ln 30, Sec 2, Roosevelt Rd (near Guting / NTU area)
 
-### Transfer to next stop
+### Evening
 
-**Sun Moon Lake → Alishan** (on 25th)
-
-* Bus No.6739 by Yuanlin Bus from Sun Moon Lake at ~8:00 am (or 9:30 am) arriving Alishan around ~11:00 to 12:30. ([Taiwan Obsessed][3])
-* Note: limited departures, book in advance.
-* Aim for the morning bus so you arrive at Alishan with time to relax.
+* ✔ Check-in and settle down
+* ✔ Walk around **Guting / NTU area** (lots of food, cafés, night vibes)
+* ✔ **Yongkang Street** for dinner (Din Tai Fung, beef noodles, mango shaved ice)
+* Optional: Light walk to **Da’an Park**
 
 ---
 
-## 25–26: Alishan
+# **📍 22 Dec – Taipei (Day 1)**
 
-### Activities
+### Morning – Chiang Kai-shek Memorial Hall
 
-* Visit the Alishan Forest Railway and enjoy the sunrise over the sea of clouds (if staying overnight)
-* Walk among the giant cypress trees in Alishan National Scenic Area
-* Enjoy sunset view at the sacred tree / observation point
-* Rest well — next day moving on.
+* Easy walk or 1 MRT stop from your stay
+* Ceremony at the main hall every hour
 
-### Transfer to next stop
+### Afternoon – Ximending
 
-**Alishan → Chiayi** (on 26th)
+* Shopping, street food
+* Visit **Red House**
 
-* From Alishan, you can descend to Chiayi by bus (check local schedule).
-* Alternatively use forest railway + local bus if available. (Schedules may vary; verify locally.)
+### Evening – Shilin Night Market
 
----
-
-## 26–27: Chiayi
-
-### Activities
-
-* Explore Chiayi city: visit the Wooden Railway Station and old town
-* Visit the nearby forest or tea plantation areas around Chiayi
-* Sunset walk / local food night market
-
-### Transfer to next stop
-
-**Chiayi → Taichung** (on 27th)
-
-* Take the Taiwan High Speed Rail (HSR) from Chiayi to Taichung: approx ~1 hour. ([12Go][4])
-* Arrive in Taichung in the afternoon.
+* MRT to JianTan
+* Try: XXL fried chicken, oyster omelette, tempura, bubble tea
 
 ---
 
-## 27–29: Taichung
+# **📍 23 Dec – Taipei → Sun Moon Lake**
 
-### Activities
+### Morning
 
-* Visit the National Taichung Theatre and the creative parks (e.g., Rainbow Village)
-* Day trip to the nearby Gaomei Wetlands for sunset
-* Explore Fengjia Night Market and local cafés
-* Visit the museum or botanical gardens
+* Check out
+* MRT to Taipei Main Station → **HSR to Taichung** (1 hr)
+* From Taichung HSR → **Sun Moon Lake shuttle bus** (1–1.5 hr)
 
-### Transfer to next stop
+### Afternoon – Shuishe Pier
 
-**Taichung → Taipei** (on 29th)
+* Check in
+* Lake view walk
+* Take the **Sun Moon Lake Boat Tour** (3 piers loop)
 
-* HSR from Taichung to Taipei about ~59 mins; trains every ~20 minutes. ([Rome2Rio][5])
-* Depart mid-morning on 29th to maximize time back in Taipei.
+### Evening
 
----
-
-## 29–31: Return to Taipei
-
-### Activities
-
-* Use the last two days for anything missed earlier: maybe the National Palace Museum, city rooftop view, local markets
-* Relax, do some shopping, pack up
-* On 31st depart.
+* Ita Thao Street Food
+* Optional: Ropeway (if you arrive early enough)
 
 ---
 
-### Notes & Tips
+# **📍 24 Dec – Sun Moon Lake (Full Day)**
 
-* Always check the latest bus/train schedules a day or two ahead — some routes (especially Sun Moon Lake ↔ Alishan) have **very limited departures**. ([Taiwan Obsessed][3])
-* For the Sun Moon Lake → Alishan route: bus at ~8 :00/9 :30 from SML. ([Nickkembel Travels][6])
-* For Taipei → Sun Moon Lake direct bus takes ~4 hours, or faster HSR + bus route ~1.5-2 hours from Taichung. ([Taiwan Obsessed][7])
-* Reserve accommodations early in scenic areas (Alishan, Sun Moon Lake) especially if staying overnight.
-* You may want to pick seats on high-speed trains and ensure EasyCard or similar transport pass is ready for buses.
-* Start early on travel days to avoid losing half a day to transit.
+### Option A: Nature + Culture
 
----
+* **Sun Moon Lake Cycling Path** (rent bicycle; very scenic)
+* **Wenwu Temple**
+* **Ci’en Pagoda** (best lake view)
 
-# Taiwan Trip Transit Guide  
-**Dates & Route**  
-21-23 Taipei → 23-25 Sun Moon Lake → 25-26 Alishan → 26-27 Chiayi → 27-29 Taichung → 29-31 Taipei  
+### Option B: Ropeway + Theme Village
 
----
+* **Sun Moon Lake Ropeway** to Formosan Aboriginal Culture Village
+* Enjoy rides + cultural shows
 
-## Transit legs & timing  
-### Taipei → Sun Moon Lake (23rd)  
-- Bus No. 1833 from Taipei Bus Station: depart ~07:00 / ~08:00 / ~09:00 → arrival ~11:00-13:00 (approx 4 hours) :contentReference[oaicite:11]{index=11}  
-- Alternative: HSR Taipei → Taichung (~1h) then shuttle bus to Sun Moon Lake (~1h20)  
+### Dinner
 
-### Sun Moon Lake → Alishan (25th)  
-- Bus No. 6739 from Sun Moon Lake at 08:00 (or 09:30 weekends) → arrive Alishan ~11:10 / 12:30. :contentReference[oaicite:12]{index=12}  
-- Return bus from Alishan leaves 13:00 or 14:30 on weekdays. :contentReference[oaicite:13]{index=13}  
-
-### Alishan → Chiayi (26th)  
-- Use bus or forest railway from Alishan to Chiayi; schedules vary—check local station for latest info. :contentReference[oaicite:14]{index=14}  
-
-### Chiayi → Taichung (27th)  
-- High-speed or regular train from Chiayi to Taichung: ~0.5h. Example earliest ~06:21. :contentReference[oaicite:15]{index=15}  
-
-### Taichung → Taipei (29th)  
-- HSR or regular train from Taichung to Taipei. Check HSR website for exact times. :contentReference[oaicite:16]{index=16}  
+* Ita Thao Night Market again or lakeside restaurant
 
 ---
 
-## ✅ Tips  
-- Book buses early where seats are limited (Sun Moon Lake ↔ Alishan).  
-- Carry EasyCard or equivalent for bus fares and convenience.  
-- Allow buffer time for station transfers and traffic.  
-- Print or save PDF offline for use without internet.
+# **📍 25 Dec – Sun Moon Lake → Taichung**
 
-# Transit Timing
+### Morning
 
-| Leg                                 | Departure Time                 | Arrival Time | Duration | Notes                                                 |
-| ----------------------------------- | ------------------------------ | ------------ | -------- | ----------------------------------------------------- |
-| Taipei → Sun Moon Lake (Bus #1833)  | 7:00 am, 8:00 am, 9:00 am etc. | ~4 h later   | ~4 h     | Direct bus route. ([Tai Wanderers][4])                |
-| Sun Moon Lake → Alishan (Bus #6739) | 08:00 am                       | ~11:10 am    | ~3.5 h   | Only one daily direct bus. ([Asia Odyssey Travel][1]) |
-| Alishan → Chiayi (Bus/Train)        | 13:00 pm, 14:00 pm             | ~16:00-17:00 | ~3 h     | Limited departures; check bus or Alishan Forest Railway. ([Nick Kembel][5]) |
-| Chiayi → Taichung (Train)           | Morning from ~06:21            | ~06:50-07:00 | ~0.5 h   | Many departures; check HSR/TRA. ([Rail Ninja][3])     |
+* Enjoy a relaxed boat ride or lakeside walk
 
+### Noon
 
-[1]: https://www.asiaodysseytravel.com/taiwan/sun-moon-lake-to-alishan.html?utm_source=chatgpt.com "3 Direct Plans from Sun Moon Lake to Alishan: A Scenic Ride! (2025)"
-[3]: https://rail.ninja/route/chiayi-to-taichung?utm_source=chatgpt.com "Chiayi to Taichung Trains | High-Speed Train Tickets - Rail Ninja"
-[4]: https://taiwanderers.com/how-to-get-to-sun-moon-lake/?utm_source=chatgpt.com "How to get to Sun Moon Lake Guide + Photos 2025 - Taiwanderers"
-[5]: https://www.nickkembel.com/how-to-get-to-alishan/?utm_source=chatgpt.com "How to Get to Alishan – Taiwan Travel Guide"
+* Bus back to Taichung HSR → MRT/bus to city hotel
+  **Stay:** Taichung City
 
-# Book Bus 6739 from Sun Moon Lake to Alishan
+### Afternoon – Taichung City
 
-The Bus 6739 route from Sun Moon Lake to Alishan is a highly popular route operated by Yuanlin Bus (員林客運). To secure your seat, advance reservation is required, especially for travelers using electronic cards or combination passes.
-Here is the essential, up-to-date information for booking and the schedule:
-1. How to Book Bus 6739
-You must make a seat reservation at least two days prior to your intended travel date. Bookings are accepted up to two months in advance.
-| Method | Contact Information | Notes |
-|---|---|---|
-| Reservation Hotline (Recommended) | +886-49-2770041 or +886-4-8321141 | If calling from outside Taiwan, remember to include the country code +886. |
-| Reservation Email | yulinbus@gmail.com | This is an alternative option for reservation. |
-| In-Person Assistance | Ask your hotel or a local travel agency | If you do not speak Mandarin, it is highly recommended to ask your hotel staff in Sun Moon Lake to call the hotline and reserve the seat for you. |
-2. Bus 6739 Schedule (Sun Moon Lake to Alishan)
-There are limited departures daily, so it is crucial to book early. The journey takes approximately 2 hours and 50 minutes to 3 hours and 30 minutes, with one or two short breaks.
-| Departure Time | Operation Day | Bus Carrier |
-|---|---|---|
-| 08:00 AM | Daily (Monday to Sunday) | Yuanlin Bus |
-| 08:30 AM | Weekends & Holidays (Saturday, Sunday) | Yuanlin Bus |
-| 09:30 AM | Weekdays (Monday to Friday) | Yuanlin Bus |
-3. Fares and Payment
- * Cash Fare: Approximately NT$336
- * Electronic Card Fare (EasyCard, iPass): Approximately NT$295
- * Payment on Bus: You can pay with Cash or an IC Card (EasyCard, iPass, etc.) directly on the bus, but you must still have a valid reservation to board.
-# Reference
+* **National Taichung Theatre** (amazing architecture)
+* **Maple Garden** nearby
 
-[1]: https://www.sunmoonlake.gov.tw/en/guide/sunmoonlake?utm_source=chatgpt.com "Getting Here | Sun Moon Lake National Scenic Area"
-[2]: https://www.tripadvisor.co.uk/ShowTopic-g293913-i9546-k14895592-Taipei_to_sun_moon_lake-Taipei.html?utm_source=chatgpt.com "Taipei to sun moon lake - Taipei Message Board - Tripadvisor"
-[3]: https://www.taiwanobsessed.com/alishan-to-sun-moon-lake/?utm_source=chatgpt.com "How to Book the Sun Moon Lake to Alishan Bus (seat guaranteed!)"
-[4]: https://12go.asia/en/train/taichung/taipei?utm_source=chatgpt.com "Trains from Taichung to Taipei from TWD 550 Jul 2025 - 12Go"
-[5]: https://www.rome2rio.com/s/TRA-Taichung-Station-East-Station/Taipei?utm_source=chatgpt.com "TRA Taichung Station(East Station) to Taipei - 5 ways to travel via train"
-[6]: https://www.nickkembel.com/how-to-get-to-alishan/?utm_source=chatgpt.com "Getting to Alishan from Taipei, Chiayi, Sun Moon Lake (2025 Info)"
-[7]: https://www.taiwanobsessed.com/sun-moon-lake-guide/?utm_source=chatgpt.com "Sun Moon Lake Itinerary: How to Plan an Unforgettable Visit"
+### Evening – Fengjia Night Market
+
+* Taiwan’s largest night market
+* MUST TRY: cheese potatoes, flame-torched beef, milk tea
+
+---
+
+# **📍 26 Dec – Taichung → Kaohsiung**
+
+### Morning
+
+* HSR from Taichung → **Zuoying (Kaohsiung)** ~ 45 min
+* MRT to city centre hotel
+
+### Afternoon – Pier 2 Art District
+
+* Graffiti walls, exhibitions, shops
+* Ride the **Light Rail (Circular Tram)** along waterfront
+
+### Evening – Liuhe Night Market
+
+* Try papaya milk, seafood, dumplings
+* Stroll around **Formosa Boulevard Station (Dome of Light)**
+
+---
+
+# **📍 27 Dec – Kaohsiung**
+
+### Morning – Fo Guang Shan Buddha Museum
+
+* Take shuttle bus from Zuoying
+* Huge, peaceful Buddhist complex
+
+### Afternoon – Lotus Pond
+
+* Dragon & Tiger Pagodas
+* Spring & Autumn Pavilions
+
+### Evening – Love River Cruise
+
+* Relaxing boat ride at night
+
+---
+
+# **📍 28 Dec – Kaohsiung**
+
+### Morning – Cijin Island
+
+* MRT + ferry
+* Explore Black Sand Beach, Rainbow Church, Cihou Lighthouse
+* Rent electric bike for convenience
+
+### Afternoon
+
+* Back to Kaohsiung
+* Relax or explore malls: Dream Mall or SKM Park
+
+### Night
+
+* Ruifeng Night Market (bigger and livelier than Liuhe)
+
+---
+
+# **📍 29 Dec – Kaohsiung → Taipei (near Taipei 101)**
+
+### Morning
+
+* HSR from Zuoying → Taipei Main Station (~1.5 hr)
+* MRT to your hotel near Taipei 101
+
+### Afternoon – Taipei 101 Area
+
+* Explore **Taipei 101 Observatory**
+* **Shin Kong Mitsukoshi Mall**
+* **Songshan Cultural & Creative Park**
+
+### Evening
+
+* Dinner around Xinyi (lots of restaurants)
+* Optional: Elephant Mountain (best sunset view of Taipei 101)
+
+---
+
+# **📍 30 Dec – Taipei (Day 2)**
+
+### Option A: **Jiufen + Shifen Day Trip**
+
+Public transport route:
+
+* MRT to Zhongxiao Fuxing → Bus 1062 to Jiufen
+* After Jiufen → Bus/Taxi → Shifen Waterfall
+* Pingxi Line Train to Shifen Old Street (sky lanterns)
+* Back to Taipei by train
+
+### Option B: **Beitou + Tamsui**
+
+* Hot springs
+* Tamsui Fisherman’s Wharf sunset
+* Walk Tamsui Old Street
+
+---
+
+# **📍 31 Dec – Taipei (Departure Day)**
+
+Depending on your flight time:
+
+### If free in the morning:
+
+* Huashan 1914 Creative Park
+* Longshan Temple + Bopiliao Historic Block
+* Last-minute food shopping at **Xinyi or Taipei Main**
+
+---
+
+# 🚆 **Public Transport Summary**
+
+### **Between cities (fastest)**
+
+* Taipei → Taichung → Kaohsiung → Taipei: **HSR**
+* Taichung HSR → Sun Moon Lake: **Direct bus**
+
+### **Within cities**
+
+* Taipei: MRT + YouBike
+* Taichung: Bus + Uber (no MRT except Green line)
+* Kaohsiung: MRT + Light Rail (excellent)
+
+---
+
+# Want a Printable Version?
+
+I can turn this into a **PDF**, **Markdown**, **Google Docs-style format**, or even a **day-by-day checklist**.
+
+Would you like that?
