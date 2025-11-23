@@ -15,7 +15,8 @@
 ## 5. Taipei (29–31 Dec) – Member Hotel at Taipei 101
 **Address:** 5F, No. 22, Section 2, Keelung Road, Xinyi District, 110 Taipei, Taiwan
 
-Here’s a well-structured **Taiwan itinerary** based on your dates, stays, and preference for **public transport**. I’ve chosen routes that are convenient, realistic, and enjoyable.
+https://secure.booking.com/mytrips.en-gb.html?label=gen173nr-10CAEoggI46AdIM1gEaMkBiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuAKi-IrJBsACAdICJDg1MjA3NjlkLWVmZWQtNDc1NC04N2MxLTAyM2Y5YzMwYTZiYdgCAeACAQ&sid=8214a3d66c8e351381f41e3b3916b4cf&aid=304142&trip_id=306711513606396
+
 
 ---
 
@@ -24,6 +25,8 @@ Here’s a well-structured **Taiwan itinerary** based on your dates, stays, and 
 ## **📍 21 Dec – Arrival in Taipei (6 PM)**
 
 **Stay:** No. 17-1, Ln 30, Sec 2, Roosevelt Rd (near Guting / NTU area)
+
+https://www.airbnb.com.sg/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMX5YSAJDC
 
 ### Evening
 
@@ -237,9 +240,3 @@ Depending on your flight time:
 * Kaohsiung: MRT + Light Rail (excellent)
 
 ---
-
-# Want a Printable Version?
-
-I can turn this into a **PDF**, **Markdown**, **Google Docs-style format**, or even a **day-by-day checklist**.
-
-Would you like that?
