@@ -1,3 +1,15 @@
+# Train booking detail
+## HSR Reservation: Taipei → Taichung | 23-Dec-2025, 10:31 AM | Train No. 121
+
+| NAME     | ORDER    | REDEEM CODE | RESERVATION NO | SEAT    |
+|----------|----------|-------------|----------------|---------|
+| JASON    | GAB01162 | ETAXGH43    | 01339358       | CAR3/3E |
+| SETIAMAN | GAB01162 | DPUZKWL2    | 01339358       | CAR3/3D |
+| BRENDA   | GAB01306 | 1VLGBVVV    | 01344529       | CAR3/2A |
+| IRENE    | GAB01018 | W1ZNRBMF    | 01345506       | CAR3/4E |
+| SHERLI   | GAB01018 | VLGBAT7K    | 01345506       | CAR3/4D |
+
+
 # Taiwan Trip Hotels (21–31 Dec)
 
 ## 1. Taipei (21–23 Dec) – Airbnb
