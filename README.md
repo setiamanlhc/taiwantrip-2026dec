@@ -19,6 +19,16 @@
 | BRENDA   | CU2KCFQK    | GAM00350 | CAR2/2E  |
 | IRENE    | LPRLQB9P    | GAM00350 | CAR2/2D  |
 
+## RESERVATION Kaoshiung 0 Taipei| Reserve no:02322163 | ORDER: GAM02140 | TRAIN NO:120 | TIME: 10:55AM
+| Name     | Seat    |
+|----------|---------|
+| JASON    | Car3/8A |
+| SHERLI   | Car3/8E |
+| IRENE    | Car3/8D |
+| BRENDA   | Car3/8C |
+| SETIAMAN | Car3/8B |
+
+
 # Taiwan Trip Hotels (21–31 Dec)
 
 ## 1. Taipei (21–23 Dec) – Airbnb
