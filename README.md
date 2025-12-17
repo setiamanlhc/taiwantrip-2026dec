@@ -9,6 +9,15 @@
 | IRENE    | GAB01018 | W1ZNRBMF    | 01345506       | CAR3/4E |
 | SHERLI   | GAB01018 | VLGBAT7K    | 01345506       | CAR3/4D |
 
+## HSR Reservation: Taichung - Kaoshiung | 26-Dec-2025, 10:48 AM | Train No. 621
+
+| Name     | Redeem Code | Order No | Seat No  |
+|----------|-------------|----------|----------|
+| SETIAMAN | ETP7ENWE    | GAM00346 | CAR4/10D |
+| SHERLI   | WZ6EWFHL    | GAM00346 | CAR4/10E |
+| JASON    | ETP1EN8U    | GAM00374 | CAR4/10A |
+| BRENDA   | CU2KCFQK    | GAM00350 | CAR2/2E  |
+| IRENE    | LPRLQB9P    | GAM00350 | CAR2/2D  |
 
 # Taiwan Trip Hotels (21–31 Dec)
 
