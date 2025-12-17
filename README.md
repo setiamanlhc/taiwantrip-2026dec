@@ -9,7 +9,7 @@
 | IRENE    | GAB01018 | W1ZNRBMF    | 01345506       | CAR3/4E |
 | SHERLI   | GAB01018 | VLGBAT7K    | 01345506       | CAR3/4D |
 
-## HSR Reservation: Taichung - Kaoshiung | 26-Dec-2025, 10:48 AM | Train No. 621
+## HSR Reservation: Taichung - Zuoying/Kaoshiung | 26-Dec-2025, 10:48 AM | Train No. 621
 
 | Name     | Redeem Code | Order No | Seat No  |
 |----------|-------------|----------|----------|
@@ -19,7 +19,7 @@
 | BRENDA   | CU2KCFQK    | GAM00350 | CAR2/2E  |
 | IRENE    | LPRLQB9P    | GAM00350 | CAR2/2D  |
 
-## RESERVATION Kaoshiung 0 Taipei| Reserve no:02322163 | ORDER: GAM02140 | TRAIN NO:120 | TIME: 10:55AM
+## RESERVATION Zuoying/Kaoshiung - Taipei| Reserve no:02322163 | ORDER: GAM02140 | TRAIN NO:120 | TIME: 10:55AM
 | Name     | Seat    |
 |----------|---------|
 | JASON    | Car3/8A |
